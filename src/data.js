@@ -6,7 +6,7 @@ function Data() {
   return (
     <div className='search-page'>
       <Nav />
-      <h1><a href='./page' className='search'>SEARCH RECIPE</a></h1>
+     <Link to="/page" className='search'>SEARCH RECIPE</Link>
     </div>
   );
 }
