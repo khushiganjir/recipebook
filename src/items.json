@@ -1,0 +1,46 @@
+{
+    "data" : [
+        
+    {
+      "name": "Margherita Pizza",
+      "photo": "./margherita.webp",
+      "description": "A classic Italian pizza with fresh mozzarella, tomatoes, and basil.",
+      "ingredients": ["Dough", "Tomato Sauce", "Fresh Mozzarella", "Tomatoes", "Basil", "Olive Oil", "Red Pepper Flakes"],
+      "rurl": "https://cookieandkate.com/margherita-pizza-recipe/",
+      "cat":"pizza"
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "photo": "./pepperoni.jpg",
+      "description": "A popular pizza topped with mozzarella and pepperoni slices.",
+      "ingredients": ["Dough", "Tomato Sauce", "Mozzarella", "Pepperoni", "Olive Oil", "Oregano"],
+      "rurl": "https://bakerbynature.com/the-best-pepperoni-pizza-recipe/",
+       "cat":"pizza"
+    },
+    {
+      "name": "Veggie Supreme Pizza",
+      "photo": "./veggie-supreme.png",
+      "description": "A vegetarian pizza loaded with bell peppers, onions, olives, and mushrooms.",
+      "ingredients": ["Dough", "Tomato Sauce", "Mozzarella", "Bell Peppers", "Onions", "Olives", "Mushrooms", "Spinach"],
+      "rurl": "https://www.thursdaynightpizza.com/the-best-veggie-supreme-pizza/",
+       "cat":"pizza"
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "photo": "./hawaiian.webp",
+      "description": "A sweet and savory pizza topped with ham and pineapple.",
+      "ingredients": ["Dough", "Tomato Sauce", "Mozzarella", "Ham", "Pineapple", "Olive Oil"],
+      "rurl": "https://www.crazyforcrust.com/hawaiian-pizza-homemade-pizza-recipe/",
+       "cat":"pizza"
+    },
+    {
+      "name": "Four Cheese Pizza",
+      "photo": "./four-cheese.jpg",
+      "description": "A rich and creamy pizza with mozzarella, parmesan, ricotta, and gorgonzola.",
+      "ingredients": ["Dough", "Tomato Sauce", "Mozzarella", "Parmesan", "Ricotta", "Gorgonzola", "Olive Oil"],
+      "rurl": "https://www.bbc.co.uk/food/recipes/four_cheese_pizzas_11912",
+       "cat":"pizza"
+    }
+]
+}
+  

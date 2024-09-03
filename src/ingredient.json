@@ -1,0 +1,67 @@
+{
+    "ing":[
+        {
+            "name": "Margherita Pizza",
+            "ing1": "Pizza Dough",
+            "ing2": "San Marzano Tomatoes",
+            "ing3": "Fresh Mozzarella Balls",
+            "ing4": "Fresh Basil",
+            "ing5": "Olive Oil & Salt"
+        },
+
+        {
+            "name":  "Pepperoni Pizza",
+            "ing1": "Bread Flour",
+            "ing2": "Granulated Sugar",
+            "ing3": "Instant Yeast",
+            "ing4": "Salt",
+            "ing5": "Warm Water",
+            "ing6": "Olive Oil",
+            "ing7": "Garlic",
+            "ing8": "Crushed Red Pepper Flakes",
+            "ing9": "Crushed Tomatoes with Basil",
+            "ing10": "Balsamic Vinegar",
+            "ing11": "Sliced Pepperoni",
+            "ing12": "Cheese",
+            "ing13": "Oregano Sprigs"
+        },
+
+
+        {
+            "name": "Veggie Supreme Pizza",
+            "ing1": " pizza dough",
+            "ing2": "Marinara Sauce ",
+            "ing3": "basil and oregano",
+            "ing4":" mozzarella cheese",
+            "ing5": " red onion",
+            "ing6": "cremini mushrooms",
+            "ing7": "green bell pepper",
+            "ing8": " black olives",
+            "ing9": "Roma (or similar) tomato",
+            "ing10": "Kosher salt",
+            "ing11": "black pepper"
+        },
+
+        {
+            "name": "Hawaiian Pizza",
+            "ing1": "Instant Yeast!",
+            "ing2": "Flour",
+            "ing3": "Sugar",
+            "ing4": "Pizza Sauce",
+            "ing5": "Mozzarella Cheese",
+            "ing6": "Ham or Canadian Bacon",
+            "ing7": "Pineapple",
+            "ing8": "Bacon"
+        },
+
+        {
+            "name": "Four Cheese Pizza",
+            "ing1" : "dough",
+            "ing2": "passata",
+            "ing3": "gorgonzola",
+            "ing4": " fontina",
+            "inh5": "Parmesan",
+            "ing6": "black pepper"
+        }
+    ]
+} 
